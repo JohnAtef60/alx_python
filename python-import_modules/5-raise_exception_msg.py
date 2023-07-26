@@ -2,6 +2,6 @@
 def raise_exception_msg(message):
     try:
         message = "C is fun"
-        raise_exception_msg(message)
+        print(message)
     except NameError as ne:
         print(ne)
