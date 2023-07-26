@@ -5,5 +5,5 @@ def safe_print_division(a, b):
     except ZeroDivisionError:
         return None
     finally:
-        print("Inside result: {}".formmat(result))
+        print("Inside result: {}".format(result))
         print("{} / {} = {}".format(a, b, result))
