@@ -4,4 +4,5 @@ def common_elements(set_1, set_2):
         for y in set_2:
             if x == y:
                 return x
-            
+            else:
+                return []
