@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 """square"""
-"""square doing nothing"""
 class square:
     """
     square doing nothing
@@ -11,4 +10,3 @@ class square:
         __size: is private
         """
         self.__size = size
-        """square"""
