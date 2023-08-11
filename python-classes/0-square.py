@@ -6,6 +6,5 @@ class square:
     def __init__(self, size):
         """square doing nothing"""
         self.__size = size
-        """square doing nothing"""
-        
+
     
