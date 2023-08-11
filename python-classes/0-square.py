@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 """square"""
+"""square doing nothing"""
 class square:
     """
     square doing nothing
@@ -11,4 +12,3 @@ class square:
         """
         self.__size = size
         """square"""
-        
