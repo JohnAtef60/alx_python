@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-"""square"""
+"""square doing nothing"""
 class square:
     """square doing nothing"""
 
