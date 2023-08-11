@@ -10,3 +10,5 @@ class square:
         __size: is private
         """
         self.__size = size
+        """square"""
+        
