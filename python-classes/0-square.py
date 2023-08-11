@@ -5,5 +5,6 @@ class square:
     """square doing nothing"""
 
     def __init__(self, size):
+        #square
         self.__size = size
     
