@@ -2,9 +2,12 @@
 
 """square doing nothing"""
 class square:
-    """square doing nothing"""
+    """
+    square doing nothing
+    """
     def __init__(self, size):
-        """square doing nothing"""
+        """
+        Attributes:
+        __size: is private
+        """
         self.__size = size
-
-    
